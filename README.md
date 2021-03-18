@@ -1,2 +1,4 @@
 # Line-Following-Robot-using-RaspberryPi
-Line following robot in Pyhton Language.
+Line following robot.
+
+Uploading VID-20200810-WA0003.mp4…
